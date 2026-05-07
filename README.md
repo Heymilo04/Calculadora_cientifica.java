@@ -19,7 +19,7 @@ Proyecto desarrollado en Java orientado a programación orientada a objetos (POO
 ### Menú interactivo por consola
 ## Estructura del proyecto
 ````
-📁 ProyectoCalculadora
+📁 CalculadoraCientifica
  ├── Calculadora.java
  ├── DivisionPorCeroException.java
  └── Main.java
