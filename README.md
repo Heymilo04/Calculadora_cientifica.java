@@ -18,7 +18,8 @@ Proyecto desarrollado en Java orientado a programación orientada a objetos (POO
 ### Manejo de excepciones personalizadas
 ### Menú interactivo por consola
 ## Estructura del proyecto
-````📁 ProyectoCalculadora
+````
+📁 ProyectoCalculadora
  ├── Calculadora.java
  ├── DivisionPorCeroException.java
  └── Main.java
@@ -37,7 +38,8 @@ La excepción se lanza cuando el usuario intenta dividir entre cero.
 
 Ejemplo:
 
-```if (b == 0) {
+```
+if (b == 0) {
     System.out.println("No puedes dividir por cero");
 }
 ------------------------------------------------------
